@@ -162,26 +162,16 @@ Generates full multimodal marketing campaigns via SSE streaming. Google AI Agent
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calmcode47&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="stats.svg"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmcode47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=calmcode47&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
+<img src="streak.svg"/>
 
 </div>
-
----
-
-## 🏆 Hackathon History
-
-| Event | Project | Status |
-|-------|---------|--------|
-| 🥇 **Hack-N-Win 3.0** — CGC Mohali (D4 Community) | MediQR | ✅ Submitted |
-| ⚡ **HackMol 7.0** — DAV Institute, Jalandhar | MediQR Pro | ✅ Submitted |
-| 🤖 **Google AI Agent Hackathon** | PitchForge | ✅ Submitted |
 
 ---
 
