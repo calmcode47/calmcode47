@@ -180,7 +180,7 @@ Generates full multimodal marketing campaigns via SSE streaming. Google AI Agent
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-calmcode47-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calmcode47)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-joshi-3bb8a0366/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
