@@ -16,28 +16,6 @@
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-```ts
-const mayank = {
-  alias      : "calmcode47",
-  role       : "Full-Stack · AI/ML · Mobile Developer",
-  focus      : ["Web Dev", "Mobile Dev", "AI/ML", "Generative AI", "Browser Tools"],
-  philosophy : "Ship fast. Learn faster. Break nothing in prod.",
-  funFact    : "I name my side projects like startups 🚀",
-};
-```
-
-- 🤖 Building real-world products powered by **Anthropic Claude**, **Gemini**, and **Imagen**
-- 📱 Shipped cross-platform apps on **Android & iOS** with React Native + Expo
-- 🌐 Crafting full-stack apps with **Next.js 15**, **FastAPI**, and **Supabase**
-- ⚡ Obsessed with **performance, scalability, and beautiful UX**
-- 🏆 Active **hackathon competitor** — always building under pressure
-
----
-
 ## 🛠️ When I code, I rely on
 
 ### 🌐 Frontend
