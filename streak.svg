@@ -25,11 +25,11 @@
   <!-- ─── LEFT: Total Contributions ─── -->
   <g transform="translate(82.5, 97.5)">
     <!-- Number -->
-    <text x="0" y="-22" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="28" font-weight="700" class="text-accent">492</text>
+    <text x="0" y="-22" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="28" font-weight="700" class="text-accent">376</text>
     <!-- Label -->
     <text x="0" y="5" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-size="14" font-weight="400" class="text-base">Total Contributions</text>
     <!-- Date range -->
-    <text x="0" y="25" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" class="text-date">Feb 1 – Mar 26, 2026</text>
+    <text x="0" y="25" text-anchor="middle" font-family="'Segoe UI', Ubuntu, Sans-Serif" class="text-date">Apr 6, 2025 – Apr 6, 2026</text>
   </g>
 
   <!-- ─── CENTER: Current Streak ─── -->

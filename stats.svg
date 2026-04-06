@@ -49,7 +49,7 @@
             <path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393Z"/>
           </svg>
           <text class="stat bold" x="25" y="12.5">Total Commits (2026):</text>
-          <text class="stat" x="230" y="12.5" data-testid="commits">492</text>
+          <text class="stat" x="230" y="12.5" data-testid="commits">376</text>
         </g>
         <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 80)">
           <svg data-testid="icon" class="icon" viewBox="0 0 16 16" version="1.1" width="16" height="16">
