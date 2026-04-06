@@ -91,6 +91,27 @@ const mayank = {
 <tr>
 <td width="50%" valign="top">
 
+### 🌐 [ContextPilot](https://github.com/calmcode47/Contextpilot)
+**AI-Powered Chrome Extension**
+
+Smart browser side panel that understands the active page — summarizes content, drafts emails, fills forms, and answers questions in context.
+
+**Stack:** `JavaScript` · `Chrome Extension APIs` · `LLM Integration`
+
+---
+
+### 🔍 [TruthLens](https://github.com/calmcode47/TruthLens)
+**AI Fake News & Misinformation Detector**
+
+Multi-step AI verification platform that identifies credible news from misinformation. Features a robust state machine for extraction and real-time corroboration.
+
+**Stack:** `React 19` · `FastAPI` · `Tailwind CSS 4` · `Gemini` · `Vite`
+
+✅ Real-time verification · state-machine analysis · editorial design
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏥 MediQR
 **QR-Based Universal Digital Health Identity**
 
@@ -110,6 +131,8 @@ Detects whether audio is AI-generated or human. Supports English, Hindi, Tamil, 
 **Stack:** `Python` · `FastAPI` · `ML Models` · `React 19` · `Three.js`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💄 [Glowverse](https://github.com/calmcode47/Glowverse-app)
@@ -129,18 +152,6 @@ Cross-platform mobile app with AR virtual try-on, AI skin analysis, and hyper-pe
 Gamified sustainability platform with AI-powered insights and a global eco-community.
 
 **Stack:** `TypeScript` · `Next.js` · `AI insights` · `Gamification`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [ContextPilot](https://github.com/calmcode47/Contextpilot)
-**AI-Powered Chrome Extension**
-
-Smart browser side panel that understands the active page — summarizes content, drafts emails, fills forms, and answers questions in context.
-
-**Stack:** `JavaScript` · `Chrome Extension APIs` · `LLM Integration`
 
 </td>
 <td width="50%" valign="top">
