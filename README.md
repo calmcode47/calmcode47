@@ -169,21 +169,6 @@ Generates full multimodal marketing campaigns via SSE streaming. Google AI Agent
 
 ---
 
-## 📊 My GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="stats.svg"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calmcode47&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-<img src="streak.svg"/>
-
-</div>
-
 ---
 
 ## 📬 Let's Connect
