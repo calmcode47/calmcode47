@@ -35,7 +35,7 @@
 ![Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🤖 AI / ML & GenAI
+### 🤖 AI/GenAI
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Imagen 3](https://img.shields.io/badge/Imagen%203-34A853?style=for-the-badge&logo=google&logoColor=white)
