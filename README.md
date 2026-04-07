@@ -32,7 +32,7 @@
 ### 🗄️ Database & Infrastructur
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon%20DB-00E699?style=for-the-badge&logo=neon&logoColor=black)
-![Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+![Redis](https://img.shields.io/badge/Upstash%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 AI / ML & GenAI
